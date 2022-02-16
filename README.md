@@ -36,7 +36,7 @@ Training:
 
 LINKING IN THE CODE:
 
-1: Go to the Github page and go to code. Now go to "main.js" and find the line of code: 
+1: Go to the Github page and goto the "Code" tab. Now, click on "Go to file", and click on "main.js". Now, find this line of code:
 
 classifier=ml5.imageClassifier("/model.json",modelloaded);
 
@@ -45,5 +45,3 @@ classifier=ml5.imageClassifier("/model.json",modelloaded);
 classifier=ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/code/model.json",modelloaded);
 
 Done! Save the code, and you can start using the app!
-
-
